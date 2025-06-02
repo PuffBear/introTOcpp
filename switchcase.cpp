@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int x = 6;
+    int x = 2;
 
     switch(x) {
         case 1:
