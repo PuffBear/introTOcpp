@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// return type, function name(args)
 int raiseToPower(int base, int exponent)
 {
     int result = 1;
